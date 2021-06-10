@@ -61,7 +61,7 @@ body {
     cursor: pointer;
 }
 
-.button-text, button-icon {
+.button-text, .button-icon {
     display: inline-block;
     vertical-align: middle;
 }
@@ -96,7 +96,7 @@ body {
 }
 
 .no-blood {
-    background:#14131A url("../img/background.jpg") no-repeat center center / 110%;
+    background: #14131A url("../img/background.jpg") no-repeat center center / 110%;
 }
 
 .content {
